@@ -1,0 +1,2 @@
+[14-Mar-2017 21:26:47 UTC] PHP Fatal error:  Interface 'Guzzle\Batch\BatchInterface' not found in /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/src/Guzzle/Batch/AbstractBatchDecorator.php on line 9
+[14-Mar-2017 22:36:48 UTC] PHP Fatal error:  Interface 'Guzzle\Batch\BatchInterface' not found in /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/src/Guzzle/Batch/AbstractBatchDecorator.php on line 9

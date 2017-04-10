@@ -1,0 +1,10 @@
+[14-Mar-2017 20:30:07 UTC] PHP Fatal error:  Uncaught exception 'PharException' with message 'internal corruption of phar "/home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php" (truncated manifest at stub end)' in /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php:3
+Stack trace:
+#0 /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php(3): Phar::mapPhar('guzzle.phar')
+#1 {main}
+  thrown in /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php on line 3
+[14-Mar-2017 22:47:04 UTC] PHP Fatal error:  Uncaught exception 'PharException' with message 'internal corruption of phar "/home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php" (truncated manifest at stub end)' in /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php:3
+Stack trace:
+#0 /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php(3): Phar::mapPhar('guzzle.phar')
+#1 {main}
+  thrown in /home/infertilitycente/public_html/enquiryform/vendor/guzzle/guzzle/phar-stub.php on line 3
